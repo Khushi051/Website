@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized | Website</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 16 Jul 2021 17:27:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>My First Post</title>
+		<link>./../../../2021/07/16/my-first-post/index.html</link>
+					<comments>./../../../2021/07/16/my-first-post/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Jul 2021 17:27:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=64</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" src="./../../../wp-content/uploads/2021/07/prague-5935651_1920.jpg" alt="" title="prague-5935651_1920" height="auto" width="auto" srcset="./../../../wp-content/uploads/2021/07/prague-5935651_1920.jpg 1920w, ./../../../wp-content/uploads/2021/07/prague-5935651_1920-300x200.jpg 300w, ./../../../wp-content/uploads/2021/07/prague-5935651_1920-1024x683.jpg 1024w, ./../../../wp-content/uploads/2021/07/prague-5935651_1920-768x512.jpg 768w, ./../../../wp-content/uploads/2021/07/prague-5935651_1920-1536x1024.jpg 1536w, ./../../../wp-content/uploads/2021/07/prague-5935651_1920-1568x1045.jpg 1568w" sizes="(max-width: 1920px) 100vw, 1920px" class="wp-image-6" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Caption this&#8230;&#8230;&#8230;&#8230;.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Rivers are Roads that move and carry us along with them.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/07/16/my-first-post/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My Second Post</title>
+		<link>./../../../2021/07/16/my-second-post/index.html</link>
+					<comments>./../../../2021/07/16/my-second-post/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 Jul 2021 16:47:25 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=53</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img loading="lazy" width="281" height="180" src="./../../../wp-content/uploads/2021/07/download.jpeg" alt="" class="et-waypoint et_pb_animation_top wp-image-55" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>Your Title Goes Here</span></h4>
+						<div class="et_pb_blurb_description"><p>Your content goes here. Edit or remove this text inline or in the module Content settings. You can also style every aspect of this content in the module Design settings and even apply custom CSS to this text in the module Advanced settings.</p></div>
+					</div>
+				</div> <!-- .et_pb_blurb_content -->
+			</div> <!-- .et_pb_blurb -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../2021/07/16/my-second-post/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
